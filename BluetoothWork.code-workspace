@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "STM32Project"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f10x.h": "c",
+			"stdio.h": "c",
+			"usart.h": "c"
+		}
+	}
+}
